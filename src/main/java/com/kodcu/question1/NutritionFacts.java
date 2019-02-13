@@ -1,6 +1,6 @@
 package com.kodcu.question;
 
-// Builder Pattern  (Page 13)
+
 // TODO initialize the class
 public class NutritionFacts {
     private final int servingSize = 0;
