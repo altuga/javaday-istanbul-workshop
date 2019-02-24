@@ -3,8 +3,8 @@ package com.kodcu.question;
 
 // TODO initialize the class
 public class NutritionFacts {
-    private final int servingSize = 0;
-    private final int servings = 0 ;
+    private final int servingSize = 0; // must
+    private final int servings = 0 ; // must
     private final int calories = 0; // optional
     private final int fat = 0;  // optional
     private final int sodium = 0; // optional
