@@ -1,4 +1,4 @@
-package com.kodcu.question4;
+package com.kodcu.question04;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.kodcu.question2;
+package com.kodcu.question02;
 
 public class Sum {
     private static long sum() {

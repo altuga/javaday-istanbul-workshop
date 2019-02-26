@@ -1,4 +1,4 @@
-package com.kodcu.question5;
+package com.kodcu.question05;
 
 import java.util.Arrays;
 import java.util.List;

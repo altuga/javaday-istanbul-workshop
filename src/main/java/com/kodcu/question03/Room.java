@@ -1,4 +1,4 @@
-package com.kodcu.question3;
+package com.kodcu.question03;
 
 public class Room {
 
