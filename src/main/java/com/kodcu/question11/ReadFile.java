@@ -13,10 +13,11 @@ public class ReadFile {
 
     private static String firstLineOfFile(String path) throws IOException {
 
-        try( BufferedReader br = new BufferedReader(new FileReader(path))){
+        BufferedReader br = new BufferedReader(new FileReader(path));
+        try {
             return br.readLine();
         } finally {
-
+            br.close();
         }
     }
 }
