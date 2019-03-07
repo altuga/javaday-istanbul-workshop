@@ -1,5 +1,14 @@
 package com.kodcu.question;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ * 1 - Constructor
+ * 2 - Setter
+ * 3 - Builder Pattern
+ */
 
 // TODO initialize the class
 public class NutritionFacts {
