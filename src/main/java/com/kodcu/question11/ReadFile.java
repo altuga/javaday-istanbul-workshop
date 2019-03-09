@@ -4,6 +4,15 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public class ReadFile {
 
     public static void main(String[] args) throws Exception{

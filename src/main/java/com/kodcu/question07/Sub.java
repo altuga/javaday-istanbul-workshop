@@ -1,5 +1,14 @@
 package com.kodcu.question07;
 
+
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 import java.time.Instant;
 
 public final class Sub extends Super {

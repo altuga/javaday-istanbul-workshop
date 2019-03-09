@@ -1,5 +1,14 @@
 package com.kodcu.question02;
 
+
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public class Sum {
     private static long sum() {
         Long sum = 0L;

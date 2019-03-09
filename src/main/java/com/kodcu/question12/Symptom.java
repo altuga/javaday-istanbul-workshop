@@ -2,6 +2,13 @@ package com.kodcu.question12;
 
 
 import java.util.*;
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
 
 public class Symptom {
 

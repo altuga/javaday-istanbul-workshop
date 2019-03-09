@@ -3,7 +3,10 @@ package com.kodcu.question09;
 import java.util.Date;
 
 /**
- * Hello world!
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
  *
  */
 public class App 

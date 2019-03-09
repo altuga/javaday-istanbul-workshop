@@ -1,5 +1,13 @@
 package com.kodcu.question12;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public class Card {
 
 

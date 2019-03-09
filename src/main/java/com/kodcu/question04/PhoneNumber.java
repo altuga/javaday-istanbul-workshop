@@ -2,6 +2,13 @@ package com.kodcu.question04;
 
 import java.util.*;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
 
 public final class PhoneNumber {
     private final short areaCode, prefix, lineNum;

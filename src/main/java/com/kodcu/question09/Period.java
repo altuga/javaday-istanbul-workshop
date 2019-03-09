@@ -2,6 +2,14 @@ package com.kodcu.question09;
 
 import java.util.Date;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public final class Period {
     private final Date start;
     private final Date end;

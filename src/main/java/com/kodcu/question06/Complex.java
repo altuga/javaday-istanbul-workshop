@@ -1,5 +1,14 @@
 package com.kodcu.question06;
 
+
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public final class Complex {
     private final double re;
     private final double im;

@@ -1,5 +1,12 @@
 package com.kodcu.question08;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
 
 class Figure {
     enum Shape { RECTANGLE, CIRCLE };

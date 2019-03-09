@@ -2,6 +2,14 @@ package com.kodcu.question11;
 
 import java.io.*;
 
+/**
+ * Altug Bilgin Altintas
+ * email : altug@kodcu.com
+ * Effective Java
+ *
+ *
+ */
+
 public class ReadAndWriteFile {
 
 
