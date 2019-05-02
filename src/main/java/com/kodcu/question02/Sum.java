@@ -22,7 +22,7 @@ public class Sum {
         long start = System.nanoTime();
         sum();
         long end = System.nanoTime();
-        System.out.println((end - start) / 1_000_000. + " ms.");
+        System.out.println((end - start) / 1_000_000. + " ms..");
 
 
 
