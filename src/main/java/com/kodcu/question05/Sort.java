@@ -13,7 +13,7 @@ import java.util.List;
 
 public class Sort {
 
-    // Sort
+    // Sort according to lenght of the String
     public static void main(String[] args) {
         List<String> words = Arrays.asList(args);
     }
